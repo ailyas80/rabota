@@ -1,2 +1,2 @@
-.obj/
-.contrab.csproj
+obj/
+*.csproj
